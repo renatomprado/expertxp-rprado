@@ -121,8 +121,8 @@ export default function Home() {
 
         <section className="control-deck" aria-label="Buscar e filtrar a agenda">
           <p className="intro">Encontre sua próxima sessão</p>
-          <label className="search-box">
-            <span aria-hidden="true">⌕</span>
+          <div className="search-box">
+            <span className="search-icon" aria-hidden="true">⌕</span>
             <input
               type="search"
               value={query}
@@ -130,7 +130,18 @@ export default function Home() {
               placeholder="Buscar palestra, tema ou palestrante"
               aria-label="Buscar palestra, tema ou palestrante"
             />
-          </label>
+            {query && (
+              <button
+                type="button"
+                className="search-clear"
+                onClick={() => setQuery("")}
+                aria-label="Limpar busca"
+                title="Limpar busca"
+              >
+                <span aria-hidden="true">×</span>
+              </button>
+            )}
+          </div>
 
           <div className="day-tabs" aria-label="Selecionar dia">
             {Object.entries(DAY_LABELS).map(([day, label]) => (
@@ -220,7 +231,10 @@ export default function Home() {
           )}
         </section>
 
-        <footer>Programação sujeita a alterações.</footer>
+        <footer>
+          <p>Programação sujeita a alterações.</p>
+          <p className="disclaimer">Projeto independente, sem vínculo, participação ou endosso da XP Inc.</p>
+        </footer>
       </div>
 
       <nav className="bottom-nav" aria-label="Navegação principal">
