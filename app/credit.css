@@ -1,0 +1,22 @@
+.creator-strip {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: .45rem;
+  min-height: 34px;
+  padding: 6px 16px;
+  border-bottom: 1px solid #283657;
+  background: rgba(15, 23, 43, .96);
+  color: #8f9dbc;
+  font-size: .7rem;
+  letter-spacing: .015em;
+}
+
+.creator-strip a {
+  color: #a9beff;
+  font-weight: 850;
+  text-decoration: none;
+}
+
+.creator-strip a:hover { color: #dce5ff; text-decoration: underline; }
+.creator-strip b { font-size: .66rem; }

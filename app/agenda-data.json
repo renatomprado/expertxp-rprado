@@ -1,0 +1,1718 @@
+{
+  "event": {
+    "name": "Expert XP 2026",
+    "dateRange": "23–25 JUL",
+    "timezone": "America/Sao_Paulo"
+  },
+  "sessions": [
+    {
+      "id": "session-549ec13e2f6e",
+      "day": "Dia 1",
+      "date": "23/07/2026",
+      "time": "09:30",
+      "stage": "Geral",
+      "title": "Early Access – Credencial Assessoria XP",
+      "theme": null,
+      "level": null,
+      "speakers": []
+    },
+    {
+      "id": "session-4516bfaab4cc",
+      "day": "Dia 1",
+      "date": "23/07/2026",
+      "time": "10:00",
+      "stage": "Geral",
+      "title": "Momento Expert Session",
+      "theme": null,
+      "level": null,
+      "speakers": []
+    },
+    {
+      "id": "session-4884973fe3ec",
+      "day": "Dia 1",
+      "date": "23/07/2026",
+      "time": "10:30",
+      "stage": "Expert Session",
+      "title": "Reinventar-se para Vencer",
+      "theme": "Empreendedorismo, Performance & Liderança",
+      "level": "Iniciante",
+      "speakers": [
+        "Andre Agassi",
+        "José Berenguer"
+      ]
+    },
+    {
+      "id": "session-62a01c2ef642",
+      "day": "Dia 1",
+      "date": "23/07/2026",
+      "time": "11:20",
+      "stage": "Expert Session",
+      "title": "Os últimos 25 anos da XP e os próximos 25: transformação, escala e visão de futuro",
+      "theme": "Empreendedorismo, Performance & Liderança",
+      "level": "Iniciante",
+      "speakers": [
+        "Guilherme Benchimol",
+        "Thiago Maffra",
+        "Guilherme Sant'Anna",
+        "Bruno Ballista",
+        "José Berenguer",
+        "Paulo Henrique Correa"
+      ]
+    },
+    {
+      "id": "session-50cd14ddaee6",
+      "day": "Dia 1",
+      "date": "23/07/2026",
+      "time": "12:15",
+      "stage": "Geral",
+      "title": "Pausa para o almoço",
+      "theme": null,
+      "level": null,
+      "speakers": []
+    },
+    {
+      "id": "session-1b35d6d39e26",
+      "day": "Dia 1",
+      "date": "23/07/2026",
+      "time": "12:20",
+      "stage": "Partner Session 1",
+      "title": "O Método Start: Como a Cultura de Protagonismo e Eficiência Comercial Constrói Assessores Top 100",
+      "theme": "Empreendedorismo, Performance & Liderança",
+      "level": "Iniciante",
+      "speakers": [
+        "Amanda Lins",
+        "Tiago Rocha",
+        "Paulo Marcell",
+        "Louise Porto"
+      ]
+    },
+    {
+      "id": "session-118a4d6e2333",
+      "day": "Dia 1",
+      "date": "23/07/2026",
+      "time": "12:20",
+      "stage": "Geral",
+      "title": "Evento Fechado",
+      "theme": null,
+      "level": null,
+      "speakers": []
+    },
+    {
+      "id": "session-63e283903c9b",
+      "day": "Dia 1",
+      "date": "23/07/2026",
+      "time": "13:00",
+      "stage": "Connection Space 1",
+      "title": "Introdução ao Mercado Financeiro",
+      "theme": "Connection Space",
+      "level": null,
+      "speakers": [
+        "Ednar Sacramento",
+        "Bruna Marcelino",
+        "Ricardo H Rocha"
+      ]
+    },
+    {
+      "id": "session-9b57b220546a",
+      "day": "Dia 1",
+      "date": "23/07/2026",
+      "time": "13:00",
+      "stage": "Connection Space 2",
+      "title": "Inteligência Comercial no Wealth Management — como dados e CRM geram vantagem competitiva em alta renda",
+      "theme": "Connection Space",
+      "level": null,
+      "speakers": [
+        "Matheus Barrella",
+        "Cecília Perini",
+        "Felipe Proença"
+      ]
+    },
+    {
+      "id": "session-60ace4f252c9",
+      "day": "Dia 1",
+      "date": "23/07/2026",
+      "time": "13:00",
+      "stage": "Connection Space 3",
+      "title": "Finanças Comportamentais: Como vieses afetam decisões e o perfil de risco do cliente?",
+      "theme": "Connection Space",
+      "level": null,
+      "speakers": [
+        "Paula Bazzo",
+        "Christianne Bariquelli",
+        "Fabiana Carvalho"
+      ]
+    },
+    {
+      "id": "session-f00fc5d39362",
+      "day": "Dia 1",
+      "date": "23/07/2026",
+      "time": "13:15",
+      "stage": "Learning Session 1",
+      "title": "Do mercado financeiro raiz ao empreendedorismo com educação",
+      "theme": "Empreendedorismo, Performance & Liderança",
+      "level": "Iniciante",
+      "speakers": [
+        "Álvaro Schocair",
+        "Eduardo Farias"
+      ]
+    },
+    {
+      "id": "session-67d025e70214",
+      "day": "Dia 1",
+      "date": "23/07/2026",
+      "time": "13:15",
+      "stage": "Learning Session 2",
+      "title": "O futuro já tem preço: o mercado trilionário de ativos digitais",
+      "theme": "Futuro dos Negócios & Inovação",
+      "level": "Intermediário",
+      "speakers": [
+        "Marcos Viriato",
+        "Marcos Horie",
+        "Luiz Masagão"
+      ]
+    },
+    {
+      "id": "session-9c1773da6c17",
+      "day": "Dia 1",
+      "date": "23/07/2026",
+      "time": "13:15",
+      "stage": "Advisor Stage",
+      "title": "O novo ambiente competitivo em investimentos: da transparência a fidelização",
+      "theme": "Empreendedorismo, Performance & Liderança",
+      "level": "Iniciante",
+      "speakers": [
+        "Lisandro Lopez",
+        "Bruno Ballista"
+      ]
+    },
+    {
+      "id": "session-f40f5ad38cf5",
+      "day": "Dia 1",
+      "date": "23/07/2026",
+      "time": "13:15",
+      "stage": "Learning Session 4",
+      "title": "Bolsa brasileira 2026: o que pode destravar o próximo ciclo?",
+      "theme": "Investimentos & Produtos",
+      "level": "Intermediário",
+      "speakers": [
+        "André Lion",
+        "João Luiz Braga",
+        "Octávio Magalhães",
+        "Fernando Ferreira"
+      ]
+    },
+    {
+      "id": "session-9a255ad8f26b",
+      "day": "Dia 1",
+      "date": "23/07/2026",
+      "time": "13:15",
+      "stage": "Learning Session 5",
+      "title": "Mulheres que lideram transformações",
+      "theme": "Empreendedorismo, Performance & Liderança",
+      "level": "Iniciante",
+      "speakers": [
+        "Carolina Cavenaghi",
+        "Laiz Carvalho",
+        "Elisa Soares"
+      ]
+    },
+    {
+      "id": "session-c31aad81d9ca",
+      "day": "Dia 1",
+      "date": "23/07/2026",
+      "time": "13:15",
+      "stage": "Pop Up InfoMoney",
+      "title": "O futuro do patrimônio: como planejar hoje o legado de amanhã",
+      "theme": "Investimentos & Produtos",
+      "level": "Intermediário",
+      "speakers": [
+        "Fábio Marinho",
+        "Thiago Levy",
+        "Carlos Eduardo Fernandes",
+        "Jamille Niero"
+      ]
+    },
+    {
+      "id": "session-c1ba738eecdf",
+      "day": "Dia 1",
+      "date": "23/07/2026",
+      "time": "13:15",
+      "stage": "Pop Up Financial Lab",
+      "title": "Papo Aberto com as Maiores Consultorias do Brasil",
+      "theme": "Futuro dos Negócios & Inovação",
+      "level": "Iniciante",
+      "speakers": [
+        "João Ortiz",
+        "Renato Breia",
+        "Diego Gonsalez",
+        "Lui Duran"
+      ]
+    },
+    {
+      "id": "session-b5c0e6a05941",
+      "day": "Dia 1",
+      "date": "23/07/2026",
+      "time": "13:15",
+      "stage": "Geral",
+      "title": "Momento Learning Session, Advisor Stage, Pop Up e Connection Space",
+      "theme": null,
+      "level": null,
+      "speakers": []
+    },
+    {
+      "id": "session-5de79e22293e",
+      "day": "Dia 1",
+      "date": "23/07/2026",
+      "time": "13:50",
+      "stage": "Connection Space 1",
+      "title": "Vieses no Atendimento — mitigando armadilhas psicológicas para profissionais de investimentos",
+      "theme": "Connection Space",
+      "level": null,
+      "speakers": [
+        "Matheus Volpato",
+        "Felipe Quiodine",
+        "Wanessa Dermendjian"
+      ]
+    },
+    {
+      "id": "session-5cefe114c48d",
+      "day": "Dia 1",
+      "date": "23/07/2026",
+      "time": "13:50",
+      "stage": "Connection Space 2",
+      "title": "Open Finance Prático — dados do ecossistema para soluções personalizadas",
+      "theme": "Connection Space",
+      "level": null,
+      "speakers": [
+        "Matheus Barrella",
+        "Luis Fernando Conduta",
+        "Rosemburg Lopes"
+      ]
+    },
+    {
+      "id": "session-48dce1d5763c",
+      "day": "Dia 1",
+      "date": "23/07/2026",
+      "time": "13:50",
+      "stage": "Connection Space 3",
+      "title": "Do Assessor ao Advisor — como construir autoridade e carteira no modelo consultivo",
+      "theme": "Connection Space",
+      "level": null,
+      "speakers": [
+        "Nayra Sombra",
+        "Rafael Marques",
+        "Marco Loureiro"
+      ]
+    },
+    {
+      "id": "session-41fc1b47973a",
+      "day": "Dia 1",
+      "date": "23/07/2026",
+      "time": "13:50",
+      "stage": "Partner Session 1",
+      "title": "Como construir um negócio sólido e sustentável",
+      "theme": "Futuro dos Negócios & Inovação",
+      "level": "Iniciante",
+      "speakers": [
+        "Guilherme Benchimol",
+        "Rony Meisler"
+      ]
+    },
+    {
+      "id": "session-88575f4a324b",
+      "day": "Dia 1",
+      "date": "23/07/2026",
+      "time": "13:55",
+      "stage": "Learning Session 1",
+      "title": "O mundo mudou. E o seu portfólio, deveria mudar?",
+      "theme": "Cenário Econômico & Global",
+      "level": "Avançado",
+      "speakers": [
+        "Thiago Ferreira",
+        "Cesar Florido, CFA",
+        "Rodrigo Sgavioli"
+      ]
+    },
+    {
+      "id": "session-f2b44b2c1c97",
+      "day": "Dia 1",
+      "date": "23/07/2026",
+      "time": "13:55",
+      "stage": "Learning Session 2",
+      "title": "Do agronegócio a Faria Lima: o futuro do agronegócio brasileiro",
+      "theme": "Investimentos & Produtos",
+      "level": "Intermediário",
+      "speakers": [
+        "Pedro Freitas",
+        "Gustavo Almeida",
+        "Paulo Mesquita"
+      ]
+    },
+    {
+      "id": "session-41c31b8e1e57",
+      "day": "Dia 1",
+      "date": "23/07/2026",
+      "time": "13:55",
+      "stage": "Advisor Stage",
+      "title": "Mitos por trás do preço! Como identificar se o cliente é modelo tradicional, fee based ou consultoria",
+      "theme": "Investimentos & Produtos",
+      "level": "Intermediário",
+      "speakers": [
+        "Eduardo Farias",
+        "Guilherme Sant'anna",
+        "Eduardo Agápito"
+      ]
+    },
+    {
+      "id": "session-9d0b4929cf5f",
+      "day": "Dia 1",
+      "date": "23/07/2026",
+      "time": "13:55",
+      "stage": "Learning Session 4",
+      "title": "Capturando valor na transição energética: A estratégia de gigantes do mercado",
+      "theme": "Futuro dos Negócios & Inovação",
+      "level": "Avançado",
+      "speakers": [
+        "William Nozaki",
+        "Ricardo Grossi",
+        "Marcela Ungaretti"
+      ]
+    },
+    {
+      "id": "session-422e70904b25",
+      "day": "Dia 1",
+      "date": "23/07/2026",
+      "time": "13:55",
+      "stage": "Learning Session 5",
+      "title": "Macroeconomia em Transição: Os Vetores que Guiam os Mercados em 2026",
+      "theme": "Cenário Econômico & Global",
+      "level": "Intermediário",
+      "speakers": [
+        "Jeferson Bittencourt",
+        "Rodolfo Margato",
+        "Luiz Parreiras",
+        "Mariano Steinert"
+      ]
+    },
+    {
+      "id": "session-7f5bef3224f2",
+      "day": "Dia 1",
+      "date": "23/07/2026",
+      "time": "13:55",
+      "stage": "Pop Up InfoMoney",
+      "title": "Alavancando negócios tradicionais com métodos digitais",
+      "theme": "Futuro dos Negócios & Inovação",
+      "level": "Intermediário",
+      "speakers": [
+        "Walter Neto",
+        "Pietro Caiafa",
+        "Marcos Paulo"
+      ]
+    },
+    {
+      "id": "session-82be9bc15da3",
+      "day": "Dia 1",
+      "date": "23/07/2026",
+      "time": "13:55",
+      "stage": "Pop Up Financial Lab",
+      "title": "Como construir um funil de leads Eficiente com IA",
+      "theme": "Futuro dos Negócios & Inovação",
+      "level": "Intermediário",
+      "speakers": [
+        "Leonardo Bulhões",
+        "Caio Muraki",
+        "Murilo Cagliari"
+      ]
+    },
+    {
+      "id": "session-689b9a53c15f",
+      "day": "Dia 1",
+      "date": "23/07/2026",
+      "time": "14:35",
+      "stage": "Learning Session 1",
+      "title": "Coisa de Rico",
+      "theme": "Empreendedorismo, Performance & Liderança",
+      "level": "Iniciante",
+      "speakers": [
+        "Michel Alcoforado",
+        "Rachel de Sá"
+      ]
+    },
+    {
+      "id": "session-090905669ccf",
+      "day": "Dia 1",
+      "date": "23/07/2026",
+      "time": "14:35",
+      "stage": "Learning Session 2",
+      "title": "O futuro dos mercados: quais são as grandes teses do momento?",
+      "theme": "Cenário Econômico & Global",
+      "level": "Intermediário",
+      "speakers": [
+        "Walter Maciel",
+        "Daniel Dupont",
+        "Bruno Marques",
+        "Felipe Manfredini"
+      ]
+    },
+    {
+      "id": "session-484bd09401ec",
+      "day": "Dia 1",
+      "date": "23/07/2026",
+      "time": "14:35",
+      "stage": "Advisor Stage",
+      "title": "Onde Líderes Fracassam – Mentalidade por trás dos gestores de Sucesso?",
+      "theme": "Empreendedorismo, Performance & Liderança",
+      "level": "Iniciante",
+      "speakers": [
+        "Fabio Costa",
+        "Alessandro Bonorino",
+        "Felipe Proença",
+        "Antonio Salvador"
+      ]
+    },
+    {
+      "id": "session-1bfc63e9ad23",
+      "day": "Dia 1",
+      "date": "23/07/2026",
+      "time": "14:35",
+      "stage": "Learning Session 4",
+      "title": "Mundo em Movimento: As perspectivas das bolsas globais",
+      "theme": "Investimentos & Produtos",
+      "level": "Intermediário",
+      "speakers": [
+        "Gina Martin Adams",
+        "Laura Howenstine",
+        "Alastair Pang",
+        "Diego Correia"
+      ]
+    },
+    {
+      "id": "session-ad54ec6f03dc",
+      "day": "Dia 1",
+      "date": "23/07/2026",
+      "time": "14:35",
+      "stage": "Learning Session 5",
+      "title": "Analistas vs. IA: qual o futuro do Research?",
+      "theme": "Futuro dos Negócios & Inovação",
+      "level": "Intermediário",
+      "speakers": [
+        "Carlos Daltozo",
+        "Raphael Figueredo",
+        "Thiago Kapulskis"
+      ]
+    },
+    {
+      "id": "session-1a0b0b79680d",
+      "day": "Dia 1",
+      "date": "23/07/2026",
+      "time": "14:35",
+      "stage": "Pop Up InfoMoney",
+      "title": "Crédito Estruturado: a nova fronteira de geração de alpha",
+      "theme": "Investimentos & Produtos",
+      "level": "Intermediário",
+      "speakers": [
+        "Samer Serhan",
+        "João Peixoto",
+        "PH Pacheco",
+        "Leandro Bezerra"
+      ]
+    },
+    {
+      "id": "session-07c08a916c1f",
+      "day": "Dia 1",
+      "date": "23/07/2026",
+      "time": "14:35",
+      "stage": "Pop Up Financial Lab",
+      "title": "O Banker de 1Bi – Onde estão os clientes que ainda não chegaram até você",
+      "theme": "Empreendedorismo, Performance & Liderança",
+      "level": "Intermediário",
+      "speakers": [
+        "Lucas Chamadoiro"
+      ]
+    },
+    {
+      "id": "session-3f8c43b382e9",
+      "day": "Dia 1",
+      "date": "23/07/2026",
+      "time": "14:50",
+      "stage": "Connection Space 1",
+      "title": "Raio X do Investidor",
+      "theme": "Investimentos & Produtos",
+      "level": "Intermediário",
+      "speakers": [
+        "Marcelo Billi",
+        "Fernanda Campos",
+        "Gabrielle Attias"
+      ]
+    },
+    {
+      "id": "session-94366c98d74f",
+      "day": "Dia 1",
+      "date": "23/07/2026",
+      "time": "14:50",
+      "stage": "Connection Space 2",
+      "title": "Tributação Estratégica no Planejamento Patrimonial — IR 2026, Reforma Tributária e impactos na carteira",
+      "theme": "Connection Space",
+      "level": null,
+      "speakers": [
+        "Priscila Araújo",
+        "Gabriel Campoy",
+        "Márcio José da Silveira"
+      ]
+    },
+    {
+      "id": "session-9fb906b08a27",
+      "day": "Dia 1",
+      "date": "23/07/2026",
+      "time": "14:50",
+      "stage": "Connection Space 3",
+      "title": "Goal-Based | Da rentabilidade ao propósito: redefinindo o conceito de retorno",
+      "theme": "Connection Space",
+      "level": null,
+      "speakers": [
+        "Marcelo Silotto",
+        "Maria Isabel Mazzola",
+        "Maria Luiza Limeres"
+      ]
+    },
+    {
+      "id": "session-1ea2d8a2f6eb",
+      "day": "Dia 1",
+      "date": "23/07/2026",
+      "time": "15:15",
+      "stage": "Learning Session 1",
+      "title": "Private Markets: a expansão dos ativos ilíquidos no portfólio global",
+      "theme": "Investimentos & Produtos",
+      "level": "Intermediário",
+      "speakers": [
+        "Alexander Wright",
+        "Victor Mazonetto"
+      ]
+    },
+    {
+      "id": "session-4fa5972df4d5",
+      "day": "Dia 1",
+      "date": "23/07/2026",
+      "time": "15:15",
+      "stage": "Learning Session 2",
+      "title": "América Latina e Emergentes: A Visão de Gestores Globais de Ações",
+      "theme": "Cenário Econômico & Global",
+      "level": "Intermediário",
+      "speakers": [
+        "Seba Ramirez",
+        "Efrain Chavez",
+        "Ana Reynal",
+        "Fabio Frischer"
+      ]
+    },
+    {
+      "id": "session-5c2354edd24e",
+      "day": "Dia 1",
+      "date": "23/07/2026",
+      "time": "15:15",
+      "stage": "Advisor Stage",
+      "title": "Futuro dos Mercados: como será a evolução da regulamentação",
+      "theme": "Futuro dos Negócios & Inovação",
+      "level": "Intermediário",
+      "speakers": [
+        "Luiz Felipe Calabró",
+        "Julia Duarte",
+        "Demarco",
+        "Marina Copola"
+      ]
+    },
+    {
+      "id": "session-96fbec8f1fdb",
+      "day": "Dia 1",
+      "date": "23/07/2026",
+      "time": "15:15",
+      "stage": "Learning Session 4",
+      "title": "O investidor brasileiro e a nova fronteira global de alocação",
+      "theme": "Investimentos & Produtos",
+      "level": "Intermediário",
+      "speakers": [
+        "Marina Valentini",
+        "Artur Wichmann",
+        "Marcelo Coscarelli",
+        "Leon Goldberg"
+      ]
+    },
+    {
+      "id": "session-6ed4cdf09bcb",
+      "day": "Dia 1",
+      "date": "23/07/2026",
+      "time": "15:15",
+      "stage": "Learning Session 5",
+      "title": "O que todo trader de varejo quer saber do mercado institucional",
+      "theme": "Investimentos & Produtos",
+      "level": "Iniciante",
+      "speakers": [
+        "Leandro Cruz",
+        "Pam Semezzato",
+        "Márcio Kieling",
+        "Felipe Paiva"
+      ]
+    },
+    {
+      "id": "session-0daba9929abd",
+      "day": "Dia 1",
+      "date": "23/07/2026",
+      "time": "15:15",
+      "stage": "Pop Up InfoMoney",
+      "title": "Infraestrutura: investindo na transformação do Brasil",
+      "theme": "Investimentos & Produtos",
+      "level": "Intermediário",
+      "speakers": [
+        "Leonardo Ono",
+        "Pierre Massari Jadoul",
+        "Petrônio Cançado",
+        "Renato Chaladovsky"
+      ]
+    },
+    {
+      "id": "session-ca03c134398d",
+      "day": "Dia 1",
+      "date": "23/07/2026",
+      "time": "15:15",
+      "stage": "Pop Up Financial Lab",
+      "title": "Se o CDI não é livre de risco, qual o papel do assessor?",
+      "theme": "Investimentos & Produtos",
+      "level": "Intermediário",
+      "speakers": [
+        "Rodrigo Sgavioli",
+        "Victor Furtado"
+      ]
+    },
+    {
+      "id": "session-199101fad0e1",
+      "day": "Dia 1",
+      "date": "23/07/2026",
+      "time": "15:20",
+      "stage": "Partner Session 2",
+      "title": "Desenvolvimento de Assessores: Capacitação e Alta Performance",
+      "theme": "Empreendedorismo, Performance & Liderança",
+      "level": "Iniciante",
+      "speakers": [
+        "Luciano Feres",
+        "Carlos Brandão",
+        "Marcos Bahia",
+        "Rodolfo Bastos"
+      ]
+    },
+    {
+      "id": "session-6a29b028e621",
+      "day": "Dia 1",
+      "date": "23/07/2026",
+      "time": "15:40",
+      "stage": "Connection Space 1",
+      "title": "O cliente que fica: por que uns saem e outros ficam por décadas",
+      "theme": "Connection Space",
+      "level": null,
+      "speakers": []
+    },
+    {
+      "id": "session-183cf00e4ea3",
+      "day": "Dia 1",
+      "date": "23/07/2026",
+      "time": "15:40",
+      "stage": "Connection Space 3",
+      "title": "Suitability (API) – Regulamentação e aplicação prática do perfil de investidor",
+      "theme": "Connection Space",
+      "level": null,
+      "speakers": [
+        "Ana Leoni",
+        "Jaqueline Benevides",
+        "Luiz Henrique Carvalho"
+      ]
+    },
+    {
+      "id": "session-4daf1e57a47f",
+      "day": "Dia 1",
+      "date": "23/07/2026",
+      "time": "15:55",
+      "stage": "Geral",
+      "title": "Momento Expert Session",
+      "theme": null,
+      "level": null,
+      "speakers": []
+    },
+    {
+      "id": "session-38b7dddf5054",
+      "day": "Dia 1",
+      "date": "23/07/2026",
+      "time": "16:20",
+      "stage": "Expert Session",
+      "title": "Perspectivas Econômicas dos EUA e Globais: Desafios de curto prazo e tendências de longo prazo",
+      "theme": "Cenário Econômico & Global",
+      "level": "Intermediário",
+      "speakers": [
+        "Janet Yellen",
+        "Caio Megale"
+      ]
+    },
+    {
+      "id": "session-3524f4417794",
+      "day": "Dia 1",
+      "date": "23/07/2026",
+      "time": "16:20",
+      "stage": "Geral",
+      "title": "Momento Expert Session",
+      "theme": null,
+      "level": null,
+      "speakers": []
+    },
+    {
+      "id": "session-98ab9306716e",
+      "day": "Dia 1",
+      "date": "23/07/2026",
+      "time": "17:15",
+      "stage": "Expert Session",
+      "title": "Construído para durar: Como grandes líderes constroem empresas que atravessam gerações",
+      "theme": "Empreendedorismo, Performance & Liderança",
+      "level": "Intermediário",
+      "speakers": [
+        "Gilberto Tomazoni",
+        "Paulo Moll",
+        "Ederson Muffato",
+        "Rafael Furlanetti"
+      ]
+    },
+    {
+      "id": "session-06a57d2e6db6",
+      "day": "Dia 1",
+      "date": "23/07/2026",
+      "time": "18:10",
+      "stage": "Expert Session",
+      "title": "Entre passado, presente e futuro: a ordem global em transformação",
+      "theme": "Cenário Econômico & Global",
+      "level": "Avançado",
+      "speakers": [
+        "Niall Ferguson",
+        "Artur Wichmann"
+      ]
+    },
+    {
+      "id": "session-7de19191b3c3",
+      "day": "Dia 2",
+      "date": "24/07/2026",
+      "time": "09:30",
+      "stage": "Geral",
+      "title": "Early Access – Credencial Assessoria XP",
+      "theme": null,
+      "level": null,
+      "speakers": []
+    },
+    {
+      "id": "session-f35db31c7de0",
+      "day": "Dia 2",
+      "date": "24/07/2026",
+      "time": "10:00",
+      "stage": "Expert Session",
+      "title": "Os rumos da economia brasileira",
+      "theme": "Cenário Econômico & Global",
+      "level": "Avançado",
+      "speakers": [
+        "Paulo Gama",
+        "Rafael Furlanetti"
+      ]
+    },
+    {
+      "id": "session-3309721bb3cc",
+      "day": "Dia 2",
+      "date": "24/07/2026",
+      "time": "10:00",
+      "stage": "Geral",
+      "title": "Momento Expert Session",
+      "theme": null,
+      "level": null,
+      "speakers": []
+    },
+    {
+      "id": "session-40d2158e897f",
+      "day": "Dia 2",
+      "date": "24/07/2026",
+      "time": "11:25",
+      "stage": "Expert Session",
+      "title": "Política Monetária no Brasil",
+      "theme": "Cenário Econômico & Global",
+      "level": "Avançado",
+      "speakers": [
+        "Gabriel Galípolo",
+        "Caio Megale"
+      ]
+    },
+    {
+      "id": "session-df355b7b6bba",
+      "day": "Dia 2",
+      "date": "24/07/2026",
+      "time": "12:20",
+      "stage": "Geral",
+      "title": "Pausa para o almoço",
+      "theme": null,
+      "level": null,
+      "speakers": []
+    },
+    {
+      "id": "session-4e81bd287a60",
+      "day": "Dia 2",
+      "date": "24/07/2026",
+      "time": "13:00",
+      "stage": "Connection Space 1",
+      "title": "Investimentos Internacionais — Offshore, BDRs, ETFs globais para diversificação cambial",
+      "theme": "Connection Space",
+      "level": null,
+      "speakers": [
+        "Bianca Silva Maria",
+        "Alexandre Fontenelle",
+        "Danilo Gabriel"
+      ]
+    },
+    {
+      "id": "session-e600823d9c1d",
+      "day": "Dia 2",
+      "date": "24/07/2026",
+      "time": "13:00",
+      "stage": "Connection Space 2",
+      "title": "Modo de Servir | Da base à proteção: uma jornada financeira integrada",
+      "theme": "Connection Space",
+      "level": null,
+      "speakers": [
+        "Bernardo Ulmo",
+        "João Rocha",
+        "Rodrigo Noronha"
+      ]
+    },
+    {
+      "id": "session-aceccd016675",
+      "day": "Dia 2",
+      "date": "24/07/2026",
+      "time": "13:00",
+      "stage": "Connection Space 3",
+      "title": "IA Aplicada no dia a dia do assessor — o que já dá para usar hoje",
+      "theme": "Connection Space",
+      "level": null,
+      "speakers": [
+        "Eduardo Colagrossi",
+        "Fernando Junior",
+        "Janaina Moura"
+      ]
+    },
+    {
+      "id": "session-80399807693a",
+      "day": "Dia 2",
+      "date": "24/07/2026",
+      "time": "13:20",
+      "stage": "Learning Session 1",
+      "title": "Cenário pré-eleitoral: tendências, comportamento do eleitor e perspectivas para 2026",
+      "theme": "Cenário Econômico & Global",
+      "level": "Intermediário",
+      "speakers": [
+        "Cila Schulman",
+        "Paulo Gama",
+        "Barbara Baião",
+        "Victor Scalet",
+        "Felipe Nunes",
+        "Antonio Lavareda"
+      ]
+    },
+    {
+      "id": "session-bd6caeb132b7",
+      "day": "Dia 2",
+      "date": "24/07/2026",
+      "time": "13:20",
+      "stage": "Learning Session 2",
+      "title": "AI e dados de mercado",
+      "theme": "Investimentos & Produtos",
+      "level": "Intermediário",
+      "speakers": [
+        "Roberto Indech"
+      ]
+    },
+    {
+      "id": "session-4b040922ddde",
+      "day": "Dia 2",
+      "date": "24/07/2026",
+      "time": "13:20",
+      "stage": "Advisor Stage",
+      "title": "O Código da Preferência: o que está por trás da decisão de um cliente continuar escolhendo você e sua empresa",
+      "theme": "Empreendedorismo, Performance & Liderança",
+      "level": "Iniciante",
+      "speakers": [
+        "José Galló",
+        "Lee Waisler",
+        "Vanessa Gordilho"
+      ]
+    },
+    {
+      "id": "session-89a51bdd0e46",
+      "day": "Dia 2",
+      "date": "24/07/2026",
+      "time": "13:20",
+      "stage": "Learning Session 4",
+      "title": "Do octógono ao futuro: disciplina, planejamento financeiro e previdência",
+      "theme": "Investimentos & Produtos",
+      "level": "Intermediário",
+      "speakers": [
+        "Luiza Valdetaro",
+        "Rodrigo Nogueira (Minotauro)",
+        "Rodrigo Saldanha"
+      ]
+    },
+    {
+      "id": "session-5a656bebe025",
+      "day": "Dia 2",
+      "date": "24/07/2026",
+      "time": "13:20",
+      "stage": "Learning Session 5",
+      "title": "Muito além do jogo: como a NFL constrói fãs, marcas e mercados",
+      "theme": "Empreendedorismo, Performance & Liderança",
+      "level": "Iniciante",
+      "speakers": []
+    },
+    {
+      "id": "session-fd3bfd5909de",
+      "day": "Dia 2",
+      "date": "24/07/2026",
+      "time": "13:20",
+      "stage": "Pop Up Financial Lab",
+      "title": "Como o Consórcio se consolidou como ferramenta de planejamento patrimonial?",
+      "theme": "Investimentos & Produtos",
+      "level": "Iniciante",
+      "speakers": [
+        "Humberto Mazzotti",
+        "Marcelo Mascaretti",
+        "Luciano Benício"
+      ]
+    },
+    {
+      "id": "session-d8de30bc033b",
+      "day": "Dia 2",
+      "date": "24/07/2026",
+      "time": "13:20",
+      "stage": "Pop Up / Outros",
+      "title": "Ferramentas e IA como diferencial competitivo para o assessor",
+      "theme": "Futuro dos Negócios & Inovação",
+      "level": "Intermediário",
+      "speakers": [
+        "Thiago Ferro",
+        "Debora Gutierrez"
+      ]
+    },
+    {
+      "id": "session-906f56a88d0a",
+      "day": "Dia 2",
+      "date": "24/07/2026",
+      "time": "13:50",
+      "stage": "Partner Session 1",
+      "title": "O maior ecossistema de Financial Planning do Brasil: liderando a transformação de vidas",
+      "theme": "Connection Space",
+      "level": null,
+      "speakers": [
+        "Ricardo Moura"
+      ]
+    },
+    {
+      "id": "session-03b97cec93d0",
+      "day": "Dia 2",
+      "date": "24/07/2026",
+      "time": "13:50",
+      "stage": "Partner Session 2",
+      "title": "O Mercado Está Mentindo Para Você",
+      "theme": "Connection Space",
+      "level": null,
+      "speakers": [
+        "Dr. Cristian Rafael Pelizza"
+      ]
+    },
+    {
+      "id": "session-26c09875510e",
+      "day": "Dia 2",
+      "date": "24/07/2026",
+      "time": "14:00",
+      "stage": "Learning Session 1",
+      "title": "Desintermediação bancária: o futuro do financiamento das empresas",
+      "theme": "Investimentos & Produtos",
+      "level": "Avançado",
+      "speakers": [
+        "Delano Macedo",
+        "Bruno Spilberg",
+        "Gustavo Cortes",
+        "Luiz Felippo"
+      ]
+    },
+    {
+      "id": "session-e0d38fb5c3b6",
+      "day": "Dia 2",
+      "date": "24/07/2026",
+      "time": "14:00",
+      "stage": "Learning Session 2",
+      "title": "Reformas micro, desafio das empresas e mercado de capitais",
+      "theme": "Cenário Econômico & Global",
+      "level": "Intermediário",
+      "speakers": [
+        "Gustavo Montezano",
+        "Caio Megale",
+        "Glenn Mallett",
+        "Fabio Fukuda"
+      ]
+    },
+    {
+      "id": "session-41c93895d489",
+      "day": "Dia 2",
+      "date": "24/07/2026",
+      "time": "14:00",
+      "stage": "Advisor Stage",
+      "title": "Os melhores assessores do Brasil e suas boas práticas",
+      "theme": "Empreendedorismo, Performance & Liderança",
+      "level": "Iniciante",
+      "speakers": [
+        "Daniel de Paula",
+        "Felipe Gomes",
+        "Guilherme Kolberg",
+        "Pedro Figueira",
+        "Daniel Zyskowski"
+      ]
+    },
+    {
+      "id": "session-e5595e6040ea",
+      "day": "Dia 2",
+      "date": "24/07/2026",
+      "time": "14:00",
+      "stage": "Learning Session 4",
+      "title": "Política Fiscal no Brasil: entre regras, reformas e sustentabilidade",
+      "theme": "Cenário Econômico & Global",
+      "level": "Intermediário",
+      "speakers": [
+        "Gabriel Barros",
+        "Bruno Funchal",
+        "Bianca Lima",
+        "Tiago Sbardelotto"
+      ]
+    },
+    {
+      "id": "session-838a53035a83",
+      "day": "Dia 2",
+      "date": "24/07/2026",
+      "time": "14:00",
+      "stage": "Learning Session 5",
+      "title": "Proteção e Prosperidade: Como seguros está redefinindo o planejamento financeiro no Brasil",
+      "theme": "Investimentos & Produtos",
+      "level": "Avançado",
+      "speakers": [
+        "Luciano Soares",
+        "Patrícia Freitas",
+        "Breno Gomes",
+        "André Lauzana"
+      ]
+    },
+    {
+      "id": "session-ae63abbb2c8f",
+      "day": "Dia 2",
+      "date": "24/07/2026",
+      "time": "14:00",
+      "stage": "Pop Up InfoMoney",
+      "title": "O mundo pós-inflação: como investir no novo regime global?",
+      "theme": "Cenário Econômico & Global",
+      "level": "Intermediário",
+      "speakers": [
+        "Luis Oliveira",
+        "Paulo Eduardo Clini",
+        "Andressa Castro",
+        "Priscila Araújo"
+      ]
+    },
+    {
+      "id": "session-4d6d856f8ccc",
+      "day": "Dia 2",
+      "date": "24/07/2026",
+      "time": "14:00",
+      "stage": "Pop Up / Outros",
+      "title": "Papel do Assessor na Volatilidade",
+      "theme": "Empreendedorismo, Performance & Liderança",
+      "level": "Intermediário",
+      "speakers": [
+        "Samyr Castro",
+        "Guilherme Guimarães",
+        "Rodolfo Bastos"
+      ]
+    },
+    {
+      "id": "session-1afea51eeff6",
+      "day": "Dia 2",
+      "date": "24/07/2026",
+      "time": "14:00",
+      "stage": "Connection Space 1",
+      "title": "Educação e Mercado: Como aproximar universidades, setor financeiro e empresas na formação de futuros profissionais",
+      "theme": "Connection Space",
+      "level": null,
+      "speakers": []
+    },
+    {
+      "id": "session-274aed6e9ce5",
+      "day": "Dia 2",
+      "date": "24/07/2026",
+      "time": "14:00",
+      "stage": "Connection Space 2",
+      "title": "Wealth & Estate Planning — sucessão patrimonial e eficiência tributária",
+      "theme": "Connection Space",
+      "level": null,
+      "speakers": [
+        "Renato Folino",
+        "André Camargo",
+        "Ticiana Albuquerque"
+      ]
+    },
+    {
+      "id": "session-262749d081d9",
+      "day": "Dia 2",
+      "date": "24/07/2026",
+      "time": "14:40",
+      "stage": "Learning Session 2",
+      "title": "Repensando o CDI como o ativo livre de risco",
+      "theme": "Investimentos & Produtos",
+      "level": "Intermediário",
+      "speakers": [
+        "Artur Wichmann",
+        "Ruy Ribeiro"
+      ]
+    },
+    {
+      "id": "session-90eb71318bd9",
+      "day": "Dia 2",
+      "date": "24/07/2026",
+      "time": "14:40",
+      "stage": "Learning Session 2",
+      "title": "Os desafios da segurança pública que os próximos governadores enfrentarão: tecnologia, inteligência e gestão",
+      "theme": "Futuro dos Negócios & Inovação",
+      "level": "Avançado",
+      "speakers": [
+        "Rodrigo Pimentel",
+        "Rafael Furlanetti"
+      ]
+    },
+    {
+      "id": "session-c14cafbc14d8",
+      "day": "Dia 2",
+      "date": "24/07/2026",
+      "time": "14:40",
+      "stage": "Advisor Stage",
+      "title": "Gestão, Cultura e Escala: Bastidores dos 4 melhores escritórios de investimento do Brasil",
+      "theme": "Empreendedorismo, Performance & Liderança",
+      "level": "Intermediário",
+      "speakers": [
+        "Marcelo Cincão",
+        "Tulio Portella",
+        "Gabriel Mangueira",
+        "Paulo Henrique Correa"
+      ]
+    },
+    {
+      "id": "session-af3aca445950",
+      "day": "Dia 2",
+      "date": "24/07/2026",
+      "time": "14:40",
+      "stage": "Learning Session 4",
+      "title": "A revolução dos ETFs",
+      "theme": "Investimentos & Produtos",
+      "level": "Intermediário",
+      "speakers": [
+        "Bruno Barino",
+        "Monica Camino",
+        "Leandro Bousquet",
+        "Fabiano Cintra"
+      ]
+    },
+    {
+      "id": "session-1cde4b0c4f8d",
+      "day": "Dia 2",
+      "date": "24/07/2026",
+      "time": "14:40",
+      "stage": "Learning Session 5",
+      "title": "Fundos Imobiliários: Retorno ao Radar em um Novo Ciclo de Juros",
+      "theme": "Investimentos & Produtos",
+      "level": "Intermediário",
+      "speakers": [
+        "Rodrigo Abbud",
+        "Alessandro Vedrossi",
+        "Pedro Carraz",
+        "Marx Gonçalves"
+      ]
+    },
+    {
+      "id": "session-e9742f34a920",
+      "day": "Dia 2",
+      "date": "24/07/2026",
+      "time": "14:40",
+      "stage": "Pop Up Financial Lab",
+      "title": "Seguros e investimentos: proteção, crescimento e estratégia",
+      "theme": "Investimentos & Produtos",
+      "level": "Intermediário",
+      "speakers": [
+        "Fábio Magalhães",
+        "Ricardo Campos",
+        "Amâncio Paladino"
+      ]
+    },
+    {
+      "id": "session-820e65481168",
+      "day": "Dia 2",
+      "date": "24/07/2026",
+      "time": "14:40",
+      "stage": "Pop Up / Outros",
+      "title": "O poder da marca pessoal no ecossistema de assessoria",
+      "theme": "Empreendedorismo, Performance & Liderança",
+      "level": "Iniciante",
+      "speakers": [
+        "André Albo",
+        "Darla Sierra",
+        "Lucas Freitas",
+        "Pedro Perotti"
+      ]
+    },
+    {
+      "id": "session-17cf08793578",
+      "day": "Dia 2",
+      "date": "24/07/2026",
+      "time": "14:50",
+      "stage": "Connection Space 3",
+      "title": "ESG + Impacto: Integrar critérios ambientais, sociais e de governança na análise de risco e na seleção de ativos com propósito",
+      "theme": "Connection Space",
+      "level": null,
+      "speakers": [
+        "Luiza Aguiar",
+        "Jéssica Rosani",
+        "Amanda Burlamaqui"
+      ]
+    },
+    {
+      "id": "session-a846dc4cacfd",
+      "day": "Dia 2",
+      "date": "24/07/2026",
+      "time": "14:50",
+      "stage": "Geral",
+      "title": "Evento fechado",
+      "theme": null,
+      "level": null,
+      "speakers": []
+    },
+    {
+      "id": "session-aaece2c43ed6",
+      "day": "Dia 2",
+      "date": "24/07/2026",
+      "time": "15:20",
+      "stage": "Learning Session 1",
+      "title": "Mobilidade Urbana",
+      "theme": "Futuro dos Negócios & Inovação",
+      "level": "Intermediário",
+      "speakers": [
+        "Breno Campolina",
+        "Alexandre Baldy",
+        "George Santoro",
+        "Rafael Furlanetti"
+      ]
+    },
+    {
+      "id": "session-9e620f71a1b9",
+      "day": "Dia 2",
+      "date": "24/07/2026",
+      "time": "15:20",
+      "stage": "Learning Session 2",
+      "title": "Inovação Elevada à Arte",
+      "theme": "Futuro dos Negócios & Inovação",
+      "level": "Intermediário",
+      "speakers": [
+        "Caio Amato"
+      ]
+    },
+    {
+      "id": "session-7cf443050535",
+      "day": "Dia 2",
+      "date": "24/07/2026",
+      "time": "15:20",
+      "stage": "Learning Session 4",
+      "title": "Crédito sem fronteiras: onde estão os desafios e oportunidades?",
+      "theme": "Investimentos & Produtos",
+      "level": "Intermediário",
+      "speakers": [
+        "Wayne Dahl",
+        "Clara Sodré",
+        "Frank Rybinski"
+      ]
+    },
+    {
+      "id": "session-0cb12284c2c0",
+      "day": "Dia 2",
+      "date": "24/07/2026",
+      "time": "15:20",
+      "stage": "Learning Session 5",
+      "title": "Investindo em crédito no Brasil: em busca do Alpha",
+      "theme": "Investimentos & Produtos",
+      "level": "Intermediário",
+      "speakers": [
+        "Alexandre Muller",
+        "Jean-Pierre Cote Gil",
+        "Marcelo Urbano",
+        "Rafaella Reale"
+      ]
+    },
+    {
+      "id": "session-13332d9f58ef",
+      "day": "Dia 2",
+      "date": "24/07/2026",
+      "time": "15:20",
+      "stage": "Pop Up InfoMoney",
+      "title": "Investimentos alternativos: a expansão do universo de alocação",
+      "theme": "Investimentos & Produtos",
+      "level": "Intermediário",
+      "speakers": [
+        "Chu Kong",
+        "Marcus Valpassos",
+        "Thiago Bronzi",
+        "Priscila Rodrigues"
+      ]
+    },
+    {
+      "id": "session-6c7cd2a93a87",
+      "day": "Dia 2",
+      "date": "24/07/2026",
+      "time": "15:20",
+      "stage": "Pop Up / Outros",
+      "title": "Market Trends: Como será investir no Brasil daqui a 20 anos? Conectando passado, presente e futuro",
+      "theme": "Empreendedorismo, Performance & Liderança",
+      "level": "Iniciante",
+      "speakers": [
+        "Fernando Junior",
+        "Marcelo Porto"
+      ]
+    },
+    {
+      "id": "session-e5266ac499b1",
+      "day": "Dia 2",
+      "date": "24/07/2026",
+      "time": "15:20",
+      "stage": "Partner Session 2",
+      "title": "Petrópolis Invest: Capacitação de Alta Performace para Assessores de Patrimônio",
+      "theme": "Connection Space",
+      "level": null,
+      "speakers": [
+        "Rodolfo Bastos",
+        "Guilherme Nyssens"
+      ]
+    },
+    {
+      "id": "session-d991f1256a40",
+      "day": "Dia 2",
+      "date": "24/07/2026",
+      "time": "15:20",
+      "stage": "Geral",
+      "title": "Evento Fechado",
+      "theme": null,
+      "level": null,
+      "speakers": []
+    },
+    {
+      "id": "session-814cf70ecaa8",
+      "day": "Dia 2",
+      "date": "24/07/2026",
+      "time": "15:40",
+      "stage": "Connection Space 1",
+      "title": "Como Fazer Você e Seu Cliente Ganhar Mais Dinheiro",
+      "theme": "Investimentos & Produtos",
+      "level": "Intermediário",
+      "speakers": [
+        "Rafael Toro"
+      ]
+    },
+    {
+      "id": "session-deeb68fed16a",
+      "day": "Dia 2",
+      "date": "24/07/2026",
+      "time": "15:40",
+      "stage": "Connection Space 3",
+      "title": "Ciclo de Vida do Investidor — adaptando recomendações por fase de vida",
+      "theme": "Connection Space",
+      "level": null,
+      "speakers": [
+        "Rodrigo Sgavioli",
+        "Pollyanna Gondin",
+        "Daniel Galdini"
+      ]
+    },
+    {
+      "id": "session-4cdab31506e7",
+      "day": "Dia 2",
+      "date": "24/07/2026",
+      "time": "16:00",
+      "stage": "Geral",
+      "title": "Momento Expert Session",
+      "theme": null,
+      "level": null,
+      "speakers": []
+    },
+    {
+      "id": "session-4e8832b9f977",
+      "day": "Dia 2",
+      "date": "24/07/2026",
+      "time": "16:20",
+      "stage": "Geral",
+      "title": "Momento Expert Session",
+      "theme": null,
+      "level": null,
+      "speakers": []
+    },
+    {
+      "id": "session-be18d2a669d0",
+      "day": "Dia 2",
+      "date": "24/07/2026",
+      "time": "16:25",
+      "stage": "Expert Session",
+      "title": "Uma conversa com Mike Pompeo",
+      "theme": "Cenário Econômico & Global",
+      "level": "Intermediário",
+      "speakers": [
+        "Mike Pompeo",
+        "Alberto Bernal"
+      ]
+    },
+    {
+      "id": "session-0a2f5de165f7",
+      "day": "Dia 2",
+      "date": "24/07/2026",
+      "time": "17:20",
+      "stage": "Expert Session",
+      "title": "O xadrez dos gestores: Estratégia e posicionamento em jogo",
+      "theme": "Cenário Econômico & Global",
+      "level": "Avançado",
+      "speakers": [
+        "Bruno Cordeiro",
+        "Ruy Alves",
+        "João Landau",
+        "Gustavo Pires"
+      ]
+    },
+    {
+      "id": "session-aa27c85bc9dc",
+      "day": "Dia 2",
+      "date": "24/07/2026",
+      "time": "18:15",
+      "stage": "Expert Session",
+      "title": "Das telas à vida real: um papo com Will Smith",
+      "theme": "Empreendedorismo, Performance & Liderança",
+      "level": "Iniciante",
+      "speakers": [
+        "Will Smith",
+        "Guilherme Sant'Anna"
+      ]
+    },
+    {
+      "id": "session-7ecf3803a475",
+      "day": "Dia 3",
+      "date": "25/07/2026",
+      "time": "09:30",
+      "stage": "Geral",
+      "title": "Early Access – Credencial Assessoria XP",
+      "theme": null,
+      "level": null,
+      "speakers": []
+    },
+    {
+      "id": "session-4854fa1bca5c",
+      "day": "Dia 3",
+      "date": "25/07/2026",
+      "time": "10:00",
+      "stage": "Expert Session",
+      "title": "Sessão XP Inc.: há 25 anos transformando o Brasil",
+      "theme": null,
+      "level": null,
+      "speakers": []
+    },
+    {
+      "id": "session-8e6842c89576",
+      "day": "Dia 3",
+      "date": "25/07/2026",
+      "time": "10:00",
+      "stage": "Geral",
+      "title": "Momento Expert Session",
+      "theme": null,
+      "level": null,
+      "speakers": []
+    },
+    {
+      "id": "session-87d7f0c3f031",
+      "day": "Dia 3",
+      "date": "25/07/2026",
+      "time": "11:30",
+      "stage": "Expert Session",
+      "title": "Transformando influência em negócio",
+      "theme": "Empreendedorismo, Performance & Liderança",
+      "level": "Iniciante",
+      "speakers": [
+        "Gerson Fini",
+        "Alfredo Soares",
+        "Theo Braga",
+        "Jel Jota"
+      ]
+    },
+    {
+      "id": "session-be032308b9d0",
+      "day": "Dia 3",
+      "date": "25/07/2026",
+      "time": "11:30",
+      "stage": "Pop Up InfoMoney",
+      "title": "Liderança que transforma negócios",
+      "theme": "Empreendedorismo, Performance & Liderança",
+      "level": "Iniciante",
+      "speakers": [
+        "Heloisa Rios",
+        "Chris Rego",
+        "Mariana Amaro",
+        "Tatiana Pimenta"
+      ]
+    },
+    {
+      "id": "session-01bf5065a37b",
+      "day": "Dia 3",
+      "date": "25/07/2026",
+      "time": "11:30",
+      "stage": "Pop Up Financial Lab",
+      "title": "Como transformar Talento em Profissão: Expansão e Formação do advisor do futuro",
+      "theme": "Empreendedorismo, Performance & Liderança",
+      "level": "Iniciante",
+      "speakers": [
+        "Ednar Sacramento",
+        "Claudia Deberaldine"
+      ]
+    },
+    {
+      "id": "session-889a269d706f",
+      "day": "Dia 3",
+      "date": "25/07/2026",
+      "time": "12:25",
+      "stage": "Expert Session",
+      "title": "Líderes que construíram negócios escaláveis",
+      "theme": "Empreendedorismo, Performance & Liderança",
+      "level": "Intermediário",
+      "speakers": [
+        "Edgard Corona",
+        "João Adibe",
+        "Diego Barreto",
+        "Guilherme Sant'Anna"
+      ]
+    },
+    {
+      "id": "session-853b75786fa7",
+      "day": "Dia 3",
+      "date": "25/07/2026",
+      "time": "12:25",
+      "stage": "Pop Up InfoMoney",
+      "title": "Tributação de dividendos: como o novo imposto mínimo muda o planejamento da alta renda",
+      "theme": "Investimentos & Produtos",
+      "level": "Intermediário",
+      "speakers": [
+        "Andrea Bazzo",
+        "Gabriel Campoy",
+        "Paulo Barros"
+      ]
+    },
+    {
+      "id": "session-25d81ec83cf9",
+      "day": "Dia 3",
+      "date": "25/07/2026",
+      "time": "12:25",
+      "stage": "Pop Up Financial Lab",
+      "title": "Ganhando o Jogo no Private Bank: gestão patrimonial moderna no topo da pirâmide",
+      "theme": "Investimentos & Produtos",
+      "level": "Intermediário",
+      "speakers": [
+        "Renato Folino",
+        "Denis Botini"
+      ]
+    },
+    {
+      "id": "session-433cf26bb715",
+      "day": "Dia 3",
+      "date": "25/07/2026",
+      "time": "13:20",
+      "stage": "Expert Session",
+      "title": "Do Patrocínio à Parceria: como marcas e atletas estão redefinindo o jogo",
+      "theme": "Empreendedorismo, Performance & Liderança",
+      "level": "Iniciante",
+      "speakers": [
+        "João Fonseca",
+        "Lucas Pinheiro Braathen",
+        "Lisandro Lopez"
+      ]
+    },
+    {
+      "id": "session-fba1e97f37e1",
+      "day": "Dia 3",
+      "date": "25/07/2026",
+      "time": "13:20",
+      "stage": "Pop Up Financial Lab",
+      "title": "Assessoria do Futuro – A mudança de produto para serviço",
+      "theme": "Empreendedorismo, Performance & Liderança",
+      "level": "Iniciante",
+      "speakers": [
+        "Lucas Chamadoiro",
+        "Reni Marques"
+      ]
+    },
+    {
+      "id": "session-5f042622c088",
+      "day": "Dia 3",
+      "date": "25/07/2026",
+      "time": "14:10",
+      "stage": "Geral",
+      "title": "Intervalo",
+      "theme": null,
+      "level": null,
+      "speakers": []
+    },
+    {
+      "id": "session-87a06a15f201",
+      "day": "Dia 3",
+      "date": "25/07/2026",
+      "time": "14:40",
+      "stage": "Expert Session",
+      "title": "Liga XP Awards",
+      "theme": "Premiação",
+      "level": null,
+      "speakers": []
+    },
+    {
+      "id": "session-78b6c08f40eb",
+      "day": "Dia 3",
+      "date": "25/07/2026",
+      "time": "14:40",
+      "stage": "Geral",
+      "title": "Momento Expert Session",
+      "theme": null,
+      "level": null,
+      "speakers": []
+    },
+    {
+      "id": "session-e1a3f8ce47de",
+      "day": "Dia 3",
+      "date": "25/07/2026",
+      "time": "16:35",
+      "stage": "Expert Session",
+      "title": "Brazil Advisor Awards",
+      "theme": "Premiação",
+      "level": null,
+      "speakers": []
+    },
+    {
+      "id": "session-7e65dd60b34f",
+      "day": "Dia 3",
+      "date": "25/07/2026",
+      "time": "18:45",
+      "stage": "Expert Session",
+      "title": "Show de Encerramento 25 anos da XP",
+      "theme": "Show",
+      "level": null,
+      "speakers": [
+        "Thiaguinho"
+      ]
+    }
+  ]
+}
